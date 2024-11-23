@@ -38,8 +38,8 @@
 ---
 
 ### 🌟 Featured Projects
-- [**Project 1**](#) –  AU Classroom. A next level version of google classroom with automatic excel file generation, grade assigning, built in web cam. 
-- [**Project 2**](#) –  RepairHub. A startup where you can get your devices fixed through door to door service. We Pick, We Fix, We Deliver.
+- [**AU CLassroom**](#) – A next level version of google classroom with automatic excel file generation, grade assigning, built in web cam. 
+- [**RepairHub**](#) – A startup where you can get your devices fixed through door to door service. We Pick, We Fix, We Deliver.
 
 ---
 
