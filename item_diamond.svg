@@ -1,0 +1,13 @@
+<svg viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="diamond">
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="4s" repeatCount="indefinite"/>
+<rect x="24" y="24" width="48" height="12" fill="#6BE3D6"/>
+<rect x="18" y="36" width="60" height="12" fill="#8CEDE2"/>
+<rect x="24" y="48" width="48" height="12" fill="#4FC9BC"/>
+<rect x="30" y="60" width="36" height="10" fill="#3BB4A8"/>
+<rect x="38" y="70" width="20" height="8"  fill="#2E9C91"/>
+<rect x="30" y="30" width="10" height="6" fill="#CFF6F1"/>
+<rect x="24" y="24" width="48" height="54" fill="none" stroke="#1c6f68" stroke-width="3"/>
+<rect x="30" y="27" width="8" height="4" fill="#FFFFFF"><animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
